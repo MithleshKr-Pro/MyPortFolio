@@ -1,0 +1,56 @@
+body{
+    padding: 0;
+    margin: 0;
+    /* background: #0a69ed; */
+}
+.testi{
+    background-color: rgba(68, 138, 208, 0.651);
+}
+.carousel{
+    /* height: 600px; */
+    /* perspective:250px ; */
+    height: 4rem;
+    perspective: 2rem;
+    /* background: #0a69ed; */
+}
+.carousel.carousel-item{
+    width: 3rem;
+    background: rgb(255, 255, 255);
+    padding: 50px;
+    height: auto;
+    text-align: center;
+    border-radius: 15px;
+}
+.img-area{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 50%;
+    border: solid 8px deepskyblue;
+
+}
+.img-area img{
+    width: 100%;
+    height: 100%;
+}
+.testi p{
+    color: #262626;
+    /* font-size: 18px; */
+    margin: 0;
+    /* line-height: 1.9; */
+}
+.testi h4{
+    font-size:20px ;
+    margin: 0;
+    color: black;
+
+}
+.testi h5{
+    margin: 0;
+    font-size: 18px;
+    /* font-size: 14px; */
+    /* letter-spacing: 5px; */
+    /* margin: 7px 0; */
+
+}
