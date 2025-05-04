@@ -587,6 +587,7 @@ ul {
   top: 3rem;
   transform: translate(-50%, 50%);
   font-weight: 100;
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
   line-height: 1.5rem;
   z-index: 2;
